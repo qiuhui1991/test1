@@ -6,3 +6,5 @@ else:
     print(b)
 c=33
 c=300
+dev=985
+
